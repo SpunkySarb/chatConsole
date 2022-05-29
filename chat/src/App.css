@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
+
+
+
+.consoleFont {
+    font-family: 'PT Mono', monospace;
+}
+
+input:focus {
+ outline: none;
+}
+
+input {
+    resize:none;
+}
+
+
+    textarea:focus {
+        outline: none;
+    }
+
+textarea {
+    resize: none;
+}
